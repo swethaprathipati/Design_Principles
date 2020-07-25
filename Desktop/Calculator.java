@@ -2,9 +2,7 @@
 import java.util.Scanner;
 public class Calculator {
    public static void main(String[] args) {
-      double n;
-      double n1;
-      double a;
+      double n,n1,a;
       char st;
       Scanner reader = new Scanner(System.in);
       System.out.print("Enter two numbers: ");
